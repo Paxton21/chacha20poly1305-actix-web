@@ -1,0 +1,13 @@
+[package]
+name = "chacha20poly1305_gen"
+version = "0.1.0"
+edition = "2021"
+author = "Paxton Smith"
+# https://www.linkedin.com/in/paxton21/
+# https://github.com/Paxton21/
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+hex = "0.4.3"

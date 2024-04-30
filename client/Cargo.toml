@@ -1,0 +1,15 @@
+[package]
+name = "encrypted_actix_comms"
+version = "0.1.0"
+edition = "2021"
+author = "Paxton Smith"
+# https://www.linkedin.com/in/paxton21/
+# https://github.com/Paxton21/
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chacha20poly1305 = "0.10.1"
+hex = "0.4.3"
+minreq = "2.11.2"
+serde_json = "1.0.116"
