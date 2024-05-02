@@ -1,8 +1,10 @@
 # Ignore Cargo.lock files in all directories
 Cargo.lock
+**/Cargo.lock
 
 # Ignore target directories - this ignores any directory named target
 **/target/
+target/
 
 # Rust file backups
 **/*.rs.bk
