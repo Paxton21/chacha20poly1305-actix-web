@@ -1,0 +1,1 @@
+/home/alex/Projects/rust-time/chacha20poly1305-actix-web/chacha20poly1305_gen/target/debug/chacha20poly1305_gen: /home/alex/Projects/rust-time/chacha20poly1305-actix-web/chacha20poly1305_gen/src/main.rs
